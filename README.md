@@ -1,35 +1,60 @@
-# All Projects
+# 👋 Hi, I'm Munirangadu Kuruva
 
-## Core AI/IoT Projects
-- [kuruvamunirangadu](https://github.com/kuruvamunirangadu)
-- [Smart-Traffic-Control-System](https://github.com/kuruvamunirangadu/Smart-Traffic-Control-System)
-- [Solar-Tracking](https://github.com/kuruvamunirangadu/Solar-Tracking)
-- [Animal-detection-system-using-deep-learning](https://github.com/kuruvamunirangadu/Animal-detection-system-using-deep-learning)
+AI-driven **Full‑Stack Developer** and **Embedded/IoT builder** passionate about creating real-world solutions using **AI + Web + Edge devices**.
 
-## Full-stack/Web Apps
-- [college-events](https://github.com/kuruvamunirangadu/college-events)
-- [educational-quiz-platform](https://github.com/kuruvamunirangadu/educational-quiz-platform)
-- [meesevaservices-Fullstack-Application](https://github.com/kuruvamunirangadu/meesevaservices-Fullstack-Application)
-- [Enhanced-Speech-Emotion-Recognition-SER-System](https://github.com/kuruvamunirangadu/Enhanced-Speech-Emotion-Recognition-SER-System)
+- **Core skills:** Machine Learning, Deep Learning, React, Node.js, Python, ONNX, JavaScript, IoT
+- **Interests:** AI agents, computer vision, edge deployment, automation, scalable web apps
 
-## AI Agents & Assistants
-- [my-ai-assistant](https://github.com/kuruvamunirangadu/my-ai-assistant)
-- [AI-Agent-Development](https://github.com/kuruvamunirangadu/AI-Agent-Development)
-- [miyraa](https://github.com/kuruvamunirangadu/miyraa)
+## 🤝 Open to Hiring / Collaboration
+I’m open to roles in **AI/ML Engineer**, **Full‑Stack Developer**, and **Embedded/IoT Developer** (Remote/On‑site).
 
-## Learning & Misc
-- [portfolio](https://github.com/kuruvamunirangadu/portfolio)
-- [lab3](https://github.com/kuruvamunirangadu/lab3)
-- [Career-path-Navigator](https://github.com/kuruvamunirangadu/Career-path-Navigator)
-- [skills-introduction-to-github](https://github.com/kuruvamunirangadu/skills-introduction-to-github)
-- [JamunaFoundationWebDev](https://github.com/kuruvamunirangadu/JamunaFoundationWebDev)
-- [introduction-to-github](https://github.com/kuruvamunirangadu/introduction-to-github)
-- [parkplaza](https://github.com/kuruvamunirangadu/parkplaza)
+- **Email:** kuruvamunirangadu.2005@gmail.com
+- **Phone:** +91 8639019597
+- **GitHub:** https://github.com/kuruvamunirangadu
 
+---
 
-## Featured Projects
+## ⭐ Featured Projects
+| Area | Project | What it does |
+|---|---|---|
+| Embedded/IoT + AI | [Smart-Traffic-Control-System](https://github.com/kuruvamunirangadu/Smart-Traffic-Control-System) | Raspberry Pi–based adaptive traffic control using real-time sensor data and edge processing |
+| Embedded/IoT + CV | [Solar-Tracking](https://github.com/kuruvamunirangadu/Solar-Tracking) | Arduino + OpenCV solar tracker that aligns panels using vision-based servo control |
+| Software (AI + Web) | [Career-path-Navigator](https://github.com/kuruvamunirangadu/Career-path-Navigator) | AI-powered career guidance platform with personalized recommendations |
+| Software (Full‑stack) | [educational-quiz-platform](https://github.com/kuruvamunirangadu/educational-quiz-platform) | React + Node quiz platform for awareness/education with auth, quizzes, and results |
+| AI/ML | [miyraa](https://github.com/kuruvamunirangadu/miyraa) | Emotion dataset prep + fused ONNX export + quantization utilities |
+| AI/ML (CV) | [Animal-detection-system-using-deep-learning](https://github.com/kuruvamunirangadu/Animal-detection-system-using-deep-learning) | CNN-based animal detection and classification for monitoring/surveillance |
 
-| Project | Description |
-| --- | --- |
-| Project Name | Description of Project |
+---
 
+## 🧩 All Projects (Grouped)
+
+### 🧠 AI / ML / Computer Vision
+- [miyraa](https://github.com/kuruvamunirangadu/miyraa) — Emotion classification dataset prep + ONNX utilities
+- [Animal-detection-system-using-deep-learning](https://github.com/kuruvamunirangadu/Animal-detection-system-using-deep-learning) — Deep learning animal detection/classification
+- [my-ai-assistant](https://github.com/kuruvamunirangadu/my-ai-assistant) — Notebook-based AI assistant experiments
+- [Enhanced-Speech-Emotion-Recognition-SER-System](https://github.com/kuruvamunirangadu/Enhanced-Speech-Emotion-Recognition-SER-System) *(fork)* — Speech emotion recognition system
+
+### 🤖 Embedded / IoT / Edge
+- [Smart-Traffic-Control-System](https://github.com/kuruvamunirangadu/Smart-Traffic-Control-System) — Adaptive traffic control (Raspberry Pi)
+- [Solar-Tracking](https://github.com/kuruvamunirangadu/Solar-Tracking) — Vision-based solar tracking (Arduino + OpenCV)
+- [fearlink](https://github.com/kuruvamunirangadu/fearlink) — Safety/risk suit concept project
+
+### 🧰 Software / Full‑Stack / Web
+- [Career-path-Navigator](https://github.com/kuruvamunirangadu/Career-path-Navigator) — AI career guidance platform
+- [educational-quiz-platform](https://github.com/kuruvamunirangadu/educational-quiz-platform) — Full-stack quiz app
+- [college-events](https://github.com/kuruvamunirangadu/college-events) — Campus event management app
+- [JamunaFoundationWebDev](https://github.com/kuruvamunirangadu/JamunaFoundationWebDev) — Community/education web projects
+- [portfolio](https://github.com/kuruvamunirangadu/portfolio) — Personal portfolio
+- [parkplaza](https://github.com/kuruvamunirangadu/parkplaza) — HTML project
+- [lab3](https://github.com/kuruvamunirangadu/lab3) — Basic HTML project
+- [meesevaservices-Fullstack-Application](https://github.com/kuruvamunirangadu/meesevaservices-Fullstack-Application) *(fork)* — Multi-branch business management app (Next.js/TS)
+
+### 📚 Learning / GitHub Practice
+- [skills-introduction-to-github](https://github.com/kuruvamunirangadu/skills-introduction-to-github) — GitHub skills practice
+- [introduction-to-github](https://github.com/kuruvamunirangadu/introduction-to-github) *(template fork)* — GitHub Education intro
+- [kuruvamunirangadu](https://github.com/kuruvamunirangadu/kuruvamunirangadu) — Profile README repo
+
+---
+
+## 📈 GitHub Stats
+![Munirangadu's GitHub stats](https://github-readme-stats.vercel.app/api?username=kuruvamunirangadu&show_icons=true&theme=radical)
