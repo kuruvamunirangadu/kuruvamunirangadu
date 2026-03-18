@@ -17,6 +17,7 @@ I’m open to roles in **AI/ML Engineer**, **Full‑Stack Developer**, and **Emb
 ## ⭐ Featured Projects
 | Area | Project | What it does |
 |---|---|---|
+| Humanoid Safety + Simulation | [safeside](https://github.com/kuruvamunirangadu/safeside) | Humanoid Safety Supervisor sandbox: Flask backend + robot simulator + operator dashboard with predictive risk, adaptive trust gating, scenario recording/playback, and multimodal emergency stop (voice + spacebar). |
 | Embedded/IoT + AI | [Smart-Traffic-Control-System](https://github.com/kuruvamunirangadu/Smart-Traffic-Control-System) | Raspberry Pi–based adaptive traffic control using real-time sensor data and edge processing |
 | Embedded/IoT + CV | [Solar-Tracking](https://github.com/kuruvamunirangadu/Solar-Tracking) | Arduino + OpenCV solar tracker that aligns panels using vision-based servo control |
 | Software (AI + Web) | [Career-path-Navigator](https://github.com/kuruvamunirangadu/Career-path-Navigator) | AI-powered career guidance platform with personalized recommendations |
@@ -40,6 +41,7 @@ I’m open to roles in **AI/ML Engineer**, **Full‑Stack Developer**, and **Emb
 - [fearlink](https://github.com/kuruvamunirangadu/fearlink) — Safety/risk suit concept project
 
 ### 🧰 Software / Full‑Stack / Web
+- [safeside](https://github.com/kuruvamunirangadu/safeside) — Humanoid Safety Supervisor (Flask + simulator + operator dashboard)
 - [Career-path-Navigator](https://github.com/kuruvamunirangadu/Career-path-Navigator) — AI career guidance platform
 - [educational-quiz-platform](https://github.com/kuruvamunirangadu/educational-quiz-platform) — Full-stack quiz app
 - [college-events](https://github.com/kuruvamunirangadu/college-events) — Campus event management app
