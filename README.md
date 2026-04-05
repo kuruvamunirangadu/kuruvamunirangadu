@@ -1,5 +1,11 @@
 # README
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kuruvamunirangadu&show_icons=true&count_private=true&cache_seconds=1800)
+This is a sample README file.
 
-Other content here...
+![GitHub Stats](https://github.com/kuruvamunirangadu/github-stats.svg?cache_seconds=1800)
+
+## Topics
+
+- Introduction
+- Getting Started
+- License
