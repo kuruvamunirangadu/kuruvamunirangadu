@@ -17,13 +17,13 @@ I’m open to roles in **AI/ML Engineer**, **Full‑Stack Developer**, and **Emb
 ## ⭐ Featured Projects
 | Area | Project | What it does |
 |---|---|---|
-| Humanoid Safety + Simulation | [safeside](https://github.com/kuruvamunirangadu/safeside) | Humanoid Safety Supervisor sandbox: Flask backend + robot simulator + operator dashboard with predictive risk, adaptive trust gating, scenario recording/playback, and multimodal emergency stop (voice + spacebar). |
-| Embedded/IoT + AI | [Smart-Traffic-Control-System](https://github.com/kuruvamunirangadu/Smart-Traffic-Control-System) | Raspberry Pi–based adaptive traffic control using real-time sensor data and edge processing |
+| Humanoid Safety + Simulation | [safeside](https://github.com/kuruvamunirangadu/safeside) | Humanoid Safety Supervisor sandbox: Flask backend + robot simulator + operator dashboard with predictiv[...] |
+| Embedded/IoT + AI | [Smart-Traffic-Control-System](https://github.com/kuruvamunirangadu/Smart-Traffic-Control-System) | Raspberry Pi–based adaptive traffic control using real-time sensor data [...] |
 | Embedded/IoT + CV | [Solar-Tracking](https://github.com/kuruvamunirangadu/Solar-Tracking) | Arduino + OpenCV solar tracker that aligns panels using vision-based servo control |
 | Software (AI + Web) | [Career-path-Navigator](https://github.com/kuruvamunirangadu/Career-path-Navigator) | AI-powered career guidance platform with personalized recommendations |
-| Software (Full‑stack) | [educational-quiz-platform](https://github.com/kuruvamunirangadu/educational-quiz-platform) | React + Node quiz platform for awareness/education with auth, quizzes, and results |
+| Software (Full‑stack) | [educational-quiz-platform](https://github.com/kuruvamunirangadu/educational-quiz-platform) | React + Node quiz platform for awareness/education with auth, quizzes, and[...] |
 | AI/ML | [miyraa](https://github.com/kuruvamunirangadu/miyraa) | Emotion dataset prep + fused ONNX export + quantization utilities |
-| AI/ML (CV) | [Animal-detection-system-using-deep-learning](https://github.com/kuruvamunirangadu/Animal-detection-system-using-deep-learning) | CNN-based animal detection and classification for monitoring/surveillance |
+| AI/ML (CV) | [Animal-detection-system-using-deep-learning](https://github.com/kuruvamunirangadu/Animal-detection-system-using-deep-learning) | CNN-based animal detection and classification for m[...] |
 
 ---
 
@@ -34,6 +34,9 @@ I’m open to roles in **AI/ML Engineer**, **Full‑Stack Developer**, and **Emb
 - [Animal-detection-system-using-deep-learning](https://github.com/kuruvamunirangadu/Animal-detection-system-using-deep-learning) — Deep learning animal detection/classification
 - [my-ai-assistant](https://github.com/kuruvamunirangadu/my-ai-assistant) — Notebook-based AI assistant experiments
 - [Enhanced-Speech-Emotion-Recognition-SER-System](https://github.com/kuruvamunirangadu/Enhanced-Speech-Emotion-Recognition-SER-System) *(fork)* — Speech emotion recognition system
+- [AI-Agent-Development](https://github.com/kuruvamunirangadu/AI-Agent-Development) — FastAPI-based AI agent with Azure OpenAI + RAG, session memory, and Azure deployment
+- [avatar-](https://github.com/kuruvamunirangadu/avatar-) — AI-powered virtual try-on: 3D avatars from 2D images + garment draping simulation + fit scoring
+- [primetrade-](https://github.com/kuruvamunirangadu/primetrade-) — Python CLI to place MARKET/LIMIT orders on Binance Futures Testnet with validation + logging
 
 ### 🤖 Embedded / IoT / Edge
 - [Smart-Traffic-Control-System](https://github.com/kuruvamunirangadu/Smart-Traffic-Control-System) — Adaptive traffic control (Raspberry Pi)
