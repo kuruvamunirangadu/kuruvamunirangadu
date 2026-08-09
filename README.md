@@ -14,16 +14,42 @@ I'm actively seeking opportunities in **AI/ML Engineering**, **Full‑Stack Deve
 
 ---
 
-## ⭐ Featured Projects
-| Area | Project | What it does |
-|---|---|---|
-| Humanoid Safety + Simulation | [safeside](https://github.com/kuruvamunirangadu/safeside) | Humanoid Safety Supervisor sandbox: Flask backend + robot simulator + operator dashboard for predictive safety |
-| Embedded/IoT + AI | [Smart-Traffic-Control-System](https://github.com/kuruvamunirangadu/Smart-Traffic-Control-System) | Raspberry Pi–based adaptive traffic control using real-time sensor data |
-| Embedded/IoT + CV | [Solar-Tracking](https://github.com/kuruvamunirangadu/Solar-Tracking) | Arduino + OpenCV solar tracker that aligns panels using vision-based servo control |
-| Software (AI + Web) | [Career-path-Navigator](https://github.com/kuruvamunirangadu/Career-path-Navigator) | AI-powered career guidance platform with personalized recommendations |
-| Software (Full‑stack) | [educational-quiz-platform](https://github.com/kuruvamunirangadu/educational-quiz-platform) | React + Node quiz platform with authentication, quizzes, and admin features |
-| AI/ML | [miyraa](https://github.com/kuruvamunirangadu/miyraa) | Emotion dataset prep + fused ONNX export + quantization utilities |
-| AI/ML (CV) | [Animal-detection-system-using-deep-learning](https://github.com/kuruvamunirangadu/Animal-detection-system-using-deep-learning) | CNN-based animal detection and classification |
+## ⭐ Standout Projects
+
+### 🏆 Most Impactful & Production-Ready
+
+| Project | Tech Stack | Impact |
+|---------|-----------|--------|
+| **[AI-Agent-Development](https://github.com/kuruvamunirangadu/AI-Agent-Development)** | FastAPI, Azure OpenAI, RAG, Vector DB | Enterprise-grade AI agent with session memory, vector-based routing, and full Azure deployment pipeline |
+| **[meesevaservices-Fullstack-Application](https://github.com/kuruvamunirangadu/meesevaservices-Fullstack-Application)** | Next.js, TypeScript, Azure SQL | Production-ready multi-branch business management system with real-world scalability |
+| **[Enhanced-Speech-Emotion-Recognition-SER-System](https://github.com/kuruvamunirangadu/Enhanced-Speech-Emotion-Recognition-SER-System)** | CNN-BiLSTM-Attention, PyTorch, GUI | IEEE-published speech emotion recognition with real-time processing and AI-powered responses |
+| **[avatar-](https://github.com/kuruvamunirangadu/avatar-)** | 3D Graphics, AI/ML, Garment Simulation | IEEE-published virtual try-on: AI avatars from 2D images + fit-percentage scoring |
+
+### 🚀 Smart IoT & Edge Systems
+
+| Project | Hardware | Purpose |
+|---------|----------|---------|
+| **[Smart-Traffic-Control-System](https://github.com/kuruvamunirangadu/Smart-Traffic-Control-System)** | Raspberry Pi, Sensors, OpenCV | Real-time adaptive traffic control with computer vision-based vehicle detection |
+| **[Solar-Tracking](https://github.com/kuruvamunirangadu/Solar-Tracking)** | Arduino, OpenCV, Servo Motors | Vision-based automatic solar panel alignment for maximum energy efficiency |
+| **[safeside](https://github.com/kuruvamunirangadu/safeside)** | Flask, Physics Simulator, Dashboard | Humanoid Safety Supervisor with real-time risk prediction and operator interface |
+
+### 🧠 Advanced AI/ML & Research
+
+| Project | Focus | Achievement |
+|---------|-------|-------------|
+| **[cognitive-routing-and-rag](https://github.com/kuruvamunirangadu/cognitive-routing-and-rag)** | RAG, Vector DB, Persona Matching | Context-aware bot with intelligent routing and persistent memory |
+| **[miyraa](https://github.com/kuruvamunirangadu/miyraa)** | ONNX, Model Optimization | Emotion dataset prep + quantized ONNX export pipeline |
+| **[Animal-detection-system-using-deep-learning](https://github.com/kuruvamunirangadu/Animal-detection-system-using-deep-learning)** | Deep Learning, CNN | End-to-end animal detection and classification system |
+| **[tredence](https://github.com/kuruvamunirangadu/tredence)** | Neural Networks, Optimization | Self-pruning feed-forward network with learnable sparse gates |
+
+### 💻 Full-Stack Web Applications
+
+| Project | Tech | Features |
+|---------|------|----------|
+| **[Career-path-Navigator](https://github.com/kuruvamunirangadu/Career-path-Navigator)** | React, Node.js, AI | AI-powered personalized career guidance platform |
+| **[educational-quiz-platform](https://github.com/kuruvamunirangadu/educational-quiz-platform)** | React, Node.js, MongoDB | Full-featured quiz platform with authentication & admin panel |
+| **[Context-Aware-Document-Q-A-Bot-RAG-](https://github.com/kuruvamunirangadu/Context-Aware-Document-Q-A-Bot-RAG-)** | RAG, PDF Processing, LLM | Intelligent Q&A chatbot for document analysis |
+| **[electron-class-app](https://github.com/kuruvamunirangadu/electron-class-app)** | Electron, Web Audio, NLP | Smart Lecture Assistant: recording, transcription, and summarization |
 
 ---
 
@@ -70,7 +96,7 @@ I'm actively seeking opportunities in **AI/ML Engineering**, **Full‑Stack Deve
 ## 📰 Publications & Research
 
 ### 🎙️ Enhanced Speech Emotion Recognition
-Published IEEE research project utilizing CNN-BiLSTM-Attention architectures for real-time speech emotion classification. Focused on temporal feature extraction and robust emotion recognition across diverse speech datasets.
+Published IEEE research project utilizing CNN-BiLSTM-Attention architectures for real-time speech emotion classification. Focused on temporal feature extraction and robust emotion recognition across diverse acoustic conditions.
 
 ### 👕 Personalized Avatar-Based Fashion Fitting
 Published IEEE research project introducing AI-driven virtual try-on technology using avatar generation, garment fitting simulation, and fit-percentage scoring to reduce apparel return rates in e-commerce.
